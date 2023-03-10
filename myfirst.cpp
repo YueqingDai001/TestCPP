@@ -6,6 +6,6 @@ int main()
 	cout << "Come up and C++ me some time.";
 	cout << endl;
 	cout << "You won't regret it !" << endl;
-	cout << "Test line."
+	cout << "Test line AND simple."
 	return 0;
  } 

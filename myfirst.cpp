@@ -7,5 +7,6 @@ int main()
 	cout << endl;
 	cout << "You won't regret it !" << endl;
 	cout << "Test line.and simple"
+	cout << "hello,py"	
 	return 0;
  } 

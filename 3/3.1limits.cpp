@@ -1,5 +1,5 @@
 #include<iostream>
-#include<climits>
+#include<climits>//ÒıÈëclimits ¿â 
 int main()
 {
 	using namespace std;

@@ -2,7 +2,7 @@
 #include <cstring>
 int main()
 {
-	using namespace std;
+	using namespace std;//使用命名空间
 	const int Size = 15;
 	char name1[Size];
 	char name2[Size] = "C++owboy";

@@ -2,7 +2,7 @@
 int main()
 {
 	using namespace std;
-	const int ArSize = 20;
+	const int ArSize = 20;//const 限定符
 	char name[ArSize] ;
 	char dessert[ArSize];
 	
